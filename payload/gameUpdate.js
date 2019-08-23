@@ -621,7 +621,7 @@ window.gameFunctions.gameUpdate = function(){
 	{
 
 
-		var mousePos = game[obfuscate.camera].O(window.gameVars.Input.Mouse.Pos);
+		var mousePos = game[obfuscate.camera].pointToScreen(window.gameVars.Input.Mouse.Pos);
 		// console.log(mousePos);
 
 
