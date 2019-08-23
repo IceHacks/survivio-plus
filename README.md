@@ -2,7 +2,11 @@
 
 # Welcome to Surviv+! 😃
 
-This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), the original creator, then transferred to [Kalaborative](https://github.com/Kalaborative), then me, iBLiSSIN. The hack in action can be seen [here](https://www.youtube.com/channel/UCLff8YzqQ-vIAFTKPTDz3RA/featured?view_as=subscriber).
+This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), but since he has been away, I've decided to take ownership of the development of the code. iBLiSSIN shows the hack in action, check it out [here](https://www.youtube.com/channel/UCLff8YzqQ-vIAFTKPTDz3RA/featured?view_as=subscriber).
+
+If you like this project, and want it to last, please consider supporting. This project lives on borrowed time.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WZCYV95AA85S4&item_name=Please+help+the+hacks+%3A%29&currency_code=CAD&source=url)
 
 ### 💪 Features
 
@@ -36,19 +40,18 @@ Fix for freezing: https://www.youtube.com/watch?v=29Ws50lRm04
 
 Fix: https://www.youtube.com/watch?v=pEEa6b3oXjA
 
-> **"Please update extension for best results!" What does this mean??!!!**
+> **"Please update extension for best results!" What does this mean??!!! WTF**
 
 Official Download / Update Guide: https://www.youtube.com/watch?v=xRoCoMei3Nc
 
-Calm down jeez. The hack was updated and therefore you need to update. Go to chrome://extensions/ and click remove on the survivio+ extension. Download the new version and load that one as the hack. 
-
+Calm down jeez. The hack was updated and therefore you need to update. Go to chrome://extensions/ and click remove on the survivio+ extension. Download the new version and load that one as the hack. There you go. No issues about this please.
 > **What do I do if the cheat stops working?**
 
-Message on discord. If I don't reply it likely means I already know.
+Message silentes#4242 on discord if the game is updated.
 
-> **This feature isn't working for me!**
+> **This feature isn't working for me! WTF?**
 
-Some things do not work, only essentials.
+Relax. Open the console (Hit F12), and copy what the error is, and just [create an issue](https://github.com/Kalaborative/survivio-cheat/issues). Do not open an issue if you already see the same one. If you do, you will be banned from using the cheat.
 
 > **What is "bump fire"?**
 
@@ -64,5 +67,4 @@ Your contributions are always welcome. If you see something that should be impro
 
 > **Is the Hack working?**
 
-Check👏for👏yourselves👏
-My philosophy is that if I can use the hack without (too many) freezes, there is no problem with it.
+Check👏for👏yourselves👏you👏lazy👏fucks👏
